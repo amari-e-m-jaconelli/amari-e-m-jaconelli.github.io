@@ -1,7 +1,8 @@
 /* ==========================================================================
    SHARED THEME SETTINGS
    ========================================================================== */
-@use 'sass:math';
+
+/* Removed @use 'sass:math' to maintain compatibility with the GitHub Pages Sass stack */
 
 /* ==========================================================================
    TYPOGRAPHY
@@ -67,7 +68,7 @@ $right-sidebar-width-wide   : auto;
 $susy: (
     columns: 12,
     column-width: 120px,
-    gutters: math.div(1, 4),
+    gutters: (1 / 4),
     math: fluid,
     output: float,
     gutter-position: after,
@@ -102,4 +103,3 @@ $vimeo-color                : #1ab7ea;
 $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
-   
