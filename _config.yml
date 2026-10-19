@@ -29,7 +29,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Bristol"
   employer         : "University of Bristol"
-  uri              : # URL
+  uri              : "https://research-information.bris.ac.uk/en/persons/amari-jaconelli/"
   email            : "amari.jaconelli@bristol.ac.uk" 
 
   # Academic websites
@@ -42,7 +42,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : 
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Amari-Jaconelli?ev=hdr_xprf"
   scopus           : # URL
   zotero           : # URL
 
