@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "On Fredholm Pfaffians and Riemann-Hilbert Problems"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: 'https://arxiv.org/abs/2511.23362'
+excerpt: 'It is shown how classes of Fredholm Pfaffians can be computed in terms of canonical, auxiliary Riemann-Hilbert problems as soon as the main kernel in the Pfaffian is either of additive Hankel composition or of truncated Wiener-Hopf type. Akhiezer-Kac asymptotic results for the Fredholm Pfaffians are then derived as natural consequences of the Riemann-Hilbert characterisation. '
+date: '28/11/25 (Submitted)'
+venue: 'KIAS Springer Series in Mathematics. Springer, 36 p.'
+slidesurl: 'https:amari-e-m-jaconelli.github.io/PIICQ Talk Slides - On Fredholm Pfaffians and RHPs.pdf'
+paperurl: 'https://amari-e-m-jaconelli.github.io/2511.23362v1.pdf'
+citation: 'arXiv:2511.23362'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
