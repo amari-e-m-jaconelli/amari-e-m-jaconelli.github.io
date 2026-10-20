@@ -2,10 +2,10 @@
 title: "Online Mathematics & Physics Tutor"
 collection: teaching
 type: "Undergraduate course"
-permalink: 
+permalink: ""
 venue: "Redford Education"
 date: "2023-2024"
-location: 
+location: ""
 ---
 
 This is an online tutoring service which focuses on GCSE, A Levels, and private entrance exams.
