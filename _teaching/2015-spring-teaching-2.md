@@ -9,6 +9,3 @@ location: "Bristol"
 ---
 
 Second Year Module taught by the Bristol School of Mathematics.
-
-Heading 3
-======
