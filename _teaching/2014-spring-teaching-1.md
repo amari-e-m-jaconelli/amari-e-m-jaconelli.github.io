@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Online Mathematics & Physics Tutor"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: 
+venue: "Redford Education"
+date: "2023-2024"
+location: 
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is an online tutoring service which focuses on GCSE, A Levels, and private entrance exams.
 
 Heading 1
 ======
