@@ -1,7 +1,7 @@
 ---
-title: "Online Mathematics & Physics Tutor"
+title: "Mathematics & Physics Tutor"
 collection: teaching
-type: "Undergraduate course"
+type: "Online"
 permalink: ""
 venue: "Redford Education"
 date: 2023-01-01
