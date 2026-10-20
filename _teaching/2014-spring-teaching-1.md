@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: ""
 venue: "Redford Education"
-date: "2023-2024"
+date: 2023-01-01
 location: ""
 ---
 
