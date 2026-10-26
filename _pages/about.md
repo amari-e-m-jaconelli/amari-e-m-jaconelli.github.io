@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "About"
+title: "Home"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
-Intro Paragraph
+
+# Welcome
+
+This is my homepage.
 
 Amari's Website 2
 ======
