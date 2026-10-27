@@ -4,7 +4,7 @@ collection: talks
 type: "Randomness in Physics and Mathematics: From Thermalisation in Quantum Systems to Random Matrices"
 permalink: /talks/ZiF-Bielefeld/
 venue: "ZiF"
-date: 2025-10-10
+date: 2025-08-25
 location: "Bielefeld, Germany"
 ---
 TBW
