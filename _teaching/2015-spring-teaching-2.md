@@ -2,7 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Mathematical Programming"
-permalink: 
+permalink: /teaching/mathematical-programming/
 venue: "University of Bristol"
 date: 2024-01-01
 location: "Bristol"
