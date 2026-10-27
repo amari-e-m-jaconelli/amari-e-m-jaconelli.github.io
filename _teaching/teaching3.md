@@ -2,7 +2,7 @@
 title: "Maths Tutor"
 collection: teaching
 type: "WeSolveProblems"
-permalink: 
+permalink: /teaching/WSP/
 venue: "University of Bristol"
 date: 2024-01-01
 location: "Bristol"
