@@ -1,7 +1,7 @@
 ---
 title: "On Fredholm Pfaffians and Riemann-Hilbert problems"
 collection: talks
-type: "Orthogonal Polynomials, Special Functions, and Applications - 18"
+type: "OPSFA-18"
 permalink: /talks/OPSFA/
 venue: "Doshisha University"
 date: 2026-08-18
