@@ -2,7 +2,7 @@
 title: "Mathematics & Physics Tutor"
 collection: teaching
 type: "Online"
-permalink: ""
+permalink: /teaching/mathematics-physics-tutor/
 venue: "Redford Education"
 date: 2023-01-01
 location: ""
