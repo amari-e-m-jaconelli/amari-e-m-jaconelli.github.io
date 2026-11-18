@@ -2,7 +2,7 @@
 title: "Finite Temperature GUE Kernels, AKNS, and All That"
 collection: talks
 type: "Mathematical Physics Seminar"
-permalink: /talks/AKNS_and_All_That/
+permalink: /talks/AKNS_and_All_That_2/
 venue: "University of Bristol"
 date: 2026-11-13
 location: "Bristol, UK"
