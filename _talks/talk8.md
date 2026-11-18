@@ -4,7 +4,7 @@ collection: talks
 type: "Random Matrix Theory Reading Group"
 permalink: /talks/AKNS_and_All_That/
 venue: "University of Bristol"
-date: 2025-02-28
+date: 2025-11-06
 location: "Bristol, UK"
 ---
 It is a long-standing result from Tracy and Widom that the (log derivative of the) Fredholm determinant induced by the finite-N GUE kernel solves the Painlevé-IV equation.
